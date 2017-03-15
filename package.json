@@ -11,7 +11,7 @@
     "gateway",
     "javascript"
   ],
-  "author": "juliocvidal",
+  "author": "Igor Rotondo Bagliotti",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
